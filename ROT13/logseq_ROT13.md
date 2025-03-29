@@ -3,7 +3,7 @@
 - Ercrngvat n EBG13 tvirf onpx gur bevtvany grkg.
 - Repeating a ROT13 gives back the original text.
 - ROT13 is a logseq plugin I wrote to obfuscate a list of passwords I keep in logseq.
-- There is an excelled t guiide to setting up your development environment for writing logseq plugins at: https://gist.github.com/xyhp915/bb9f67f5b430ac0da2629d586a3e4d69
+- There is an excellent guiide to setting up your development environment for writing logseq plugins at: https://gist.github.com/xyhp915/bb9f67f5b430ac0da2629d586a3e4d69
 - Logseq plugins are written in Javascript.
 - They live in their own folder and consist of 3 files:
 	1. index.html
