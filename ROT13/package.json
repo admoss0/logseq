@@ -1,0 +1,11 @@
+{
+  "name": "rot13",
+  "version": "1.0.0",
+  "main": "index.html",
+  "logseq": {
+    "id": "_dcxj13wse"
+  },
+  "dependencies": {
+    "@logseq/libs": "^0.2.1"
+  }
+}
